@@ -50,6 +50,8 @@
 
 * Windows
 
+[https://git-scm.com/download/win](https://git-scm.com/download/win)
+
 * macOS 
 
 ### GitHub　のユーザーアカウントを作成する
