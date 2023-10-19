@@ -16,15 +16,8 @@
 
 2. Zsh (Z Shell)ZshはBashの上位互換で、Bashのコマンドが利用できます。最近のmacOSに利用されています。 ターミナルの `%` がZshを指します。
 
-3. 
-
-Unwindows Power Shell では、`>` のあとにコマンドを入力します。
-
+3. Windows PowerShell(pwsh) では、 Windowsのコマンドラインで利用されていて、`>` のあとにコマンドを入力します。
 windows Power Shell を省略として本記事では、`pwsh`とします。
-
-% zsh bashの上位互換のシェル
-
-シェルとは、人間が入れた英数字をパソコンに解釈させる為に変換してくれる機能になります。
 
 ## Command Line 基礎
 
