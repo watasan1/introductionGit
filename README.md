@@ -116,12 +116,28 @@ $ pwd
 
 1. pwsh
 
-```
+```pwsh
 > Remove-Item <ファイル名>
 ```
 
+2. Bash
 
+```rm
+$ rm <ファイル名>
+```
 
+* フォルダを削除する
+
+1. pwsh
+
+```pwsh
+> Remove-Item <フォルダを削除> -Recurse
+```
+2. Bash
+
+```rm
+$ rm -r <フォルダを削除>
+```
 
 ### 便利なコマンド
 
