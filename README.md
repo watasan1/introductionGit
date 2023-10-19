@@ -143,7 +143,11 @@ $ pwd
 
 [https://git-scm.com/download/win](https://git-scm.com/download/win)
 
-* macOS 
+* macOS
+
+```Bash
+$ xcode-select --install
+```
 
 ### GitHub　のユーザーアカウントを作成する
 
